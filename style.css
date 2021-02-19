@@ -1,0 +1,14 @@
+#MyCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.Carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+#MyCarousel{
+     background-color: red;
+}
+body{
+    height: 300px;
+}
